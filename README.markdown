@@ -1,6 +1,7 @@
 # [Jekyll](https://jekyllrb.com/)
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkhalexandra%2Ftriall.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkhalexandra%2Ftriall?ref=badge_shield)
+[ruby-gems]
 [![Linux Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)][ci-workflow]
 [![Windows Build status](https://img.shields.io/appveyor/ci/jekyll/jekyll/master.svg?label=Windows%20build)][appveyor]
 [![Backers on Open Collective](https://opencollective.com/jekyll/backers/badge.svg)](#backers)
@@ -81,3 +82,6 @@ Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/
 ## License
 
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkhalexandra%2Ftriall.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkhalexandra%2Ftriall?ref=badge_large)
